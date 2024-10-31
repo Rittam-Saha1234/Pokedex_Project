@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import './pokemonList.css'
+import './pokemonList.css';
 import Pokemon from "../Pokemon/Pokemon";
 
 function PokemonList(){
